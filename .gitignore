@@ -1,0 +1,4 @@
+# Ignores unnecessary files
+*.o
+/slstatus
+/config.def.h
